@@ -2,6 +2,10 @@ import streamlit as st
 from PIL import Image
 import io
 
+# setup the title and description of the app and logo
+st.set_page_config(page_title="Image Steganography", page_icon="🗝️")
+
+
 # Function to convert encoding data into 8-bit binary form using ASCII value of characters
 
 
