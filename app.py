@@ -149,3 +149,8 @@ elif choice == "Decode a Message":
 st.sidebar.markdown("---")
 st.sidebar.write(
     "This tool allows you to hide secret messages inside images and later retrieve them. Perfect for secure communication!")
+
+st.sidebar.markdown("---")
+st.sidebar.markdown(
+    "Made with ❤️ by [codewithyembot](https://codewithyembot.vercel.app/). created with [geeksforgeeks](https://www.geeksforgeeks.org/)")
+st.sidebar.markdown("---")
